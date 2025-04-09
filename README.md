@@ -1,4 +1,4 @@
-Dataiku Data Scientist Technical Assessment
+# Dataiku Data Scientist Technical Assessment
 
 This repository contains a technical solution for the Dataiku Data Scientist position, based on a sample dataset from the U.S. Census Bureau.
 
