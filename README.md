@@ -17,13 +17,12 @@ The notebook walks through a full data science pipeline:
 2. Data Cleaning & Preprocessing:
    - Handling missing values
    - Encoding categorical variables
-   - Binning continuous variables
 
 3. Model Building:
    - Train/test split
-   - Initial modeling using Random Forest
-   - Testing K-Nearest Neighbours
-   -  
+   - Modeling with Random Forest
+   - Modeling with CatBoost
+
 
 4. Model Evaluation:
    - Accuracy
@@ -31,7 +30,6 @@ The notebook walks through a full data science pipeline:
    - precision
    - recall
    - Classification reports
-   - Models comparison
 
 ## Reproducibility & Requirements
 
@@ -49,15 +47,15 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 ## Files
 
--  dataiku_assignment.ipynb — production-oriented notebook
--  assignment slides
+-  dataiku_assignment_final.ipynb 
+-  DataIku Assignment Project.pptx
 -  README.md — this file
 -  requirements.txt
 
 ## 📝 Notes
 
 - This notebook focuses on creating a solid and interpretable model.
-- Additional improvements like hyperparameter tuning or alternative models (e.g., KNN, XGBoost) can be added as extensions.
+- Additional improvements like hyperparameter tuning or alternative models can be added as extensions.
 
 ---
 
